@@ -6,5 +6,6 @@ public class gitclass03 {
         }else{
             System.out.println("yes");
         }
+        System.out.println("the code is complete");
     }
 }
